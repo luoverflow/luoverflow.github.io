@@ -374,6 +374,10 @@
   
   
    @media only screen and (max-width: 649px) {
+
+    .hamburger {
+      position: fixed;
+    }
   
      .nav-ul li {
       color: #292a2c;
